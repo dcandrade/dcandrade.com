@@ -108,21 +108,22 @@ $bg
 		width 100%
 	li + li::before
 		content "|"
-		margin 1em
+		margin rem(1px)
 	li
-		font-size 1.5em
 		display inline
 		list-style-type none
 		content "|"
+		white-space nowrap
 		a
-				font-size rem(20px)
+				font-size rem(15px)
 				color sec
 				display inline-block
-				border 1px solid main
-				border-radius rem(5px)
-				padding rem(4px) rem(10px)
+				//border 1px solid main
+				//	border-radius rem(5px)
+				//padding rem(2px) rem(5px)
 				margin-right rem(2px)
-				margin-bottom rem(8px)
+				margin-left rem(2px)
+				//margin-bottom rem(8px)
 				text-decoration none
 				&:hover
 						color sec
