@@ -1,10 +1,11 @@
 {
-  "name": "victorigortemplate",
+  "name": "dcandrade.com",
   "version": "1.0.0",
-  "description": "My jekyll blog template.",
+  "description": "My personal website",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "gulp"
   },
   "keywords": [
     "frontend",
