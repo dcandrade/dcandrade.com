@@ -1,9 +1,8 @@
 # Site settings
 title: Daniel Andrade
-description: ""
-baseurl: ''
-url: ''
-# url para but in production: 'https://yourusername.githu.io'
+description: "Personal website"
+baseurl: ""
+url: "https://dcandrade.com"
 
 # User settings
 username: Daniel Andrade
@@ -12,8 +11,9 @@ user_title: Daniel Andrade
 email: dca650@gmail.com
 twitter_username: ddcandrade
 github_username:  dcandrade
+gplus_username:  +DanielAndradeC
 linkedin_public_url: dcandrade
-disqus_username: loremipsum
+disqus_username: dcandrade
 profile_picture: ./assets/img/profile.jpg
 
 # header nav Links
@@ -76,6 +76,7 @@ links:
       key_trigger: g
     - title: twitter
       url: http://www.twitter.com/ddcandrade
+      new_tab: true
       key_trigger: t
     - title: search
       url: ""
