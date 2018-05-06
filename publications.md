@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications.html
 description: "My published papers"
 ---
-#Publications
+Publications
 ======
 
 **TwitterSensing: An Event-Based Approach for Wireless Sensor Networks Optimization Exploiting Social Media in Smart City Applications.** Daniel G. Costa, Cristian Duran-Faundez, Daniel C. Andrade, João B. Rocha-Junior and Joao P. J. Peixoto. *Sensors 2018, 18, 1080.*. [[DOI]](https://doi.org/10.3390/s18041080)
