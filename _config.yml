@@ -18,8 +18,8 @@ profile_picture: ./assets/img/profile.jpg
 
 # header nav Links
 menu:
-  - title: posts
-    url: /posts
+  #- title: posts
+  #  url: /posts
   - title: publications
     url: /publications.html
   - title: talks
@@ -48,15 +48,15 @@ links:
     - title: home
       url: /
       key_trigger: 1
-    - title: my posts
-      url: /posts
-      key_trigger: 2
-    - title: series
-      url: /series
-      key_trigger: 3
-    - title: tags
-      url: /tags
-      key_trigger: 4
+    #- title: my posts
+    #  url: /posts
+    #  key_trigger: 2
+    #- title: series
+    #  url: /series
+    #  key_trigger: 3
+    #- title: tags
+    #  url: /tags
+    #  key_trigger: 4
     - title: about me
       url: /about
       key_trigger: 5
