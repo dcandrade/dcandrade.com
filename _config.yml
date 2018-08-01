@@ -84,14 +84,14 @@ links:
 
 # projects in header index
 projects:
+  - name: Demo of Zabbix using Docker containers
+    url: https://github.com/dcandrade/docker-zabbix-demo
   - name: Social Media Mining for Sensor Networks 
     url: http://lara.uefs.br/pesquisa.html
   - name: Movie Sucess Prediction using Data Mining
     url: https://github.com/dcandrade/movie-data-mining
   - name: Machine Learning A-Z
     url: https://github.com/dcandrade/machine-learning-a-z
-  - name: Payfast
-    url: https://github.com/dcandrade/payfast
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
