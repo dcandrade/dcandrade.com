@@ -12,7 +12,7 @@ Talks
 **Big Data e Cidades Inteligentes: Utilizando dados para controlar ambientes urbanos** @ *XIX Semana de Integração dos Estudantes de Engenharia de Computação da UEFS - SIECOMP* (2018). [[Slides]](https://drive.google.com/file/d/1OxXBPzczZ9UkRtBPJjKkbvUzLzeHT0FU/view?usp=sharing)
 
 
-Short Couses
+Short Courses
 ======
 **Java 8 e 9: Ao infinito e além!** @ *XIX Semana de Integração dos Estudantes de Engenharia de Computação da UEFS - SIECOMP* (2018). [[Slides]](https://drive.google.com/file/d/1oF3Aq67d7_6pBsRY349au7GsqcpXY1Kg/view?usp=sharing) [[Code]](https://github.com/WandSilva/workshop_java_8_9)
 
