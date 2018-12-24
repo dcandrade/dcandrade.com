@@ -25,8 +25,11 @@
 	        <div class="container">
 	            <div class="row">
 	                <div class="col-sm-6 col-sm-offset-3 col-xs-offset-0">
-						<h3>Chatbot Huggy</h3>
-	                    <div class="card no-border">
+							<h3>
+								Chatbot Huggy
+								<button type="button" class="btn btn-danger float-right btn-reboot">Reiniciar</button>
+								</h3> 	                    
+								<div class="card no-border">
 	                        <div id="chat">
 	                            <form action="" method="GET" class="hidden">
 									<input type="text" name="name" data-conv-question="Oi, me faça uma pergunta">
@@ -63,6 +66,18 @@
 
 					});
 		    }}});
+		});
+	</script>
+	<script>
+		$(".btn-reboot").click(function(){
+			$.getJSON('https://fast-basin-51562.herokuapp.com/kill', function( data ) {
+			});
+
+			document.body.innerHTML = "Reiniciando o chatbot. A página irá recarregar quando tudo estiver pronto.";
+
+			setTimeout(function(){
+				window.location.reload(false);
+			}, 1*60*1000)
 		});
 	</script>
 </body>
